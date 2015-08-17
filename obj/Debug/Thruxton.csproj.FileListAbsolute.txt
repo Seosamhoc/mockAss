@@ -1,0 +1,10 @@
+C:\Users\blue16\Documents\vsprojects\Csharp-Basics\CsharpMockAssignment\bin\Debug\Bikes.mdb
+C:\Users\blue16\Documents\vsprojects\Csharp-Basics\CsharpMockAssignment\bin\Debug\CsharpMockAssignment.exe.config
+C:\Users\blue16\Documents\vsprojects\Csharp-Basics\CsharpMockAssignment\bin\Debug\CsharpMockAssignment.exe
+C:\Users\blue16\Documents\vsprojects\Csharp-Basics\CsharpMockAssignment\bin\Debug\CsharpMockAssignment.pdb
+C:\Users\blue16\Documents\vsprojects\Csharp-Basics\CsharpMockAssignment\obj\Debug\Thruxton.csprojResolveAssemblyReference.cache
+C:\Users\blue16\Documents\vsprojects\Csharp-Basics\CsharpMockAssignment\obj\Debug\CsharpMockAssignment.frmBikes.resources
+C:\Users\blue16\Documents\vsprojects\Csharp-Basics\CsharpMockAssignment\obj\Debug\CsharpMockAssignment.Properties.Resources.resources
+C:\Users\blue16\Documents\vsprojects\Csharp-Basics\CsharpMockAssignment\obj\Debug\Thruxton.csproj.GenerateResource.Cache
+C:\Users\blue16\Documents\vsprojects\Csharp-Basics\CsharpMockAssignment\obj\Debug\CsharpMockAssignment.exe
+C:\Users\blue16\Documents\vsprojects\Csharp-Basics\CsharpMockAssignment\obj\Debug\CsharpMockAssignment.pdb
